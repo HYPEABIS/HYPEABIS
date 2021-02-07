@@ -1,0 +1,14 @@
+{
+  "name": "hype-v2",
+  "version": "1.0.0",
+  "description": "Hypeabis New Project Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "All Staff IT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
