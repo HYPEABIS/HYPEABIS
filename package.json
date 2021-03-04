@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HYPEABIS/HYPEABIS.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/HYPEABIS/HYPEABIS/issues"
+  },
+  "homepage": "https://github.com/HYPEABIS/HYPEABIS#readme"
 }
